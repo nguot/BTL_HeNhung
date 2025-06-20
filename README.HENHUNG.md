@@ -1,13 +1,12 @@
 ## GIỚI THIỆU
 
-__Đề bài__: _Copy lại nội dung đề bài được yêu cầu._
+__Đề bài__: Game Tetris
 
 __Sản phẩm:__
 1. Tính năng
 2. Tính năng
 3. Tính năng
-- Ảnh chụp minh họa:\
-  ![Ảnh minh họa](https://soict.hust.edu.vn/wp-content/uploads/logo-soict-hust-1-1024x416.png)
+- ![Ảnh minh họa dự án Tetris Game với STM32](./tetris.jpg)
 
 ## TÁC GIẢ
 
