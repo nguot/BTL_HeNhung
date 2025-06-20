@@ -122,7 +122,6 @@ __Sản phẩm:__
     r = ((rgb565 >> 11) & 0x1F) << 3; // 5-bit red => 8-bit
     g = ((rgb565 >> 5) & 0x3F) << 2;  // 6-bit green => 8-bit
     b = (rgb565 & 0x1F) << 3;         // 5-bit blue => 8-bit
-}
   ```
 * ```C
    /**
