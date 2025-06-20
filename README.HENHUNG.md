@@ -10,11 +10,11 @@ __Sản phẩm:__
 
 ## TÁC GIẢ
 
-- Tên nhóm:......
+- Tên nhóm: __Blink red__
 - Thành viên trong nhóm
   |STT|Họ tên|MSSV|Công việc|
   |--:|--|--|--|
-  |1|Nguyễn Hoàng Hải|20002987|hiện thị oled, hiệu ứng, và xử lý ngắt|
+  |1||20002987|hiện thị oled, hiệu ứng, và xử lý ngắt|
 
 ## MÔI TRƯỜNG HOẠT ĐỘNG
 
