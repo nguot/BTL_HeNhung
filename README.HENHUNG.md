@@ -1,8 +1,3 @@
-# PROJECT SAMPLE
-
-Mô tả nội dung cần báo cáo của môn đồ án
-> Sinh viên nên Fork từ dự án này
-
 ## GIỚI THIỆU
 
 __Đề bài__: _Copy lại nội dung đề bài được yêu cầu._
